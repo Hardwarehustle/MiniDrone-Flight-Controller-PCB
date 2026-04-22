@@ -9,15 +9,17 @@ The board is designed for a compact indoor FPV or autonomous mini-drone platform
 
 ## 🖼️ Project Visuals
 
-### PCB Layout (Top)
-![PCB Layout](images/PCB_Layout.jpg)
-
-### Bottom View
-![Bottom View](images/BottomView.jpg)
-
 ### Schematic
-![Schematic](images/SCH.pdf)
+![Schematic](Images/SCH.png)
 
+### PCB Layout
+![PCB Layout](Images/PCB_Layout.png)
+
+### 3D Board Top View
+![3D Top View](Images/TopView.png)
+
+### 3D Board Bottom View
+![3D Bottom View](Images/BottomView.png)
 ---
 
 ## 🏗️ System Architecture

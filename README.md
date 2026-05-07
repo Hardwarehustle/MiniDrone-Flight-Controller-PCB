@@ -278,18 +278,18 @@ USB-C VBUS (5V) ──► TP4056 charger ──► LiPo Battery (3.7V)
 
 ---
 
-## 📄 License
+## License
 
 This project is open for educational and personal use.  
 © 2026 Janardhan BV — All rights reserved.
 
 ---
 
-## 🙋 Author
+## Author
 
 **Janardhan BV**  
 Embedded Hardware Engineer | PCB Design | Robotics  
-📍 Bengaluru, India
+Bengaluru, India
 
 ---
 *MiniDrone — ESP32-S3 Flight Controller PCB | Designed in EasyEDA*
